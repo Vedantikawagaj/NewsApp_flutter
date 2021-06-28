@@ -31,7 +31,7 @@ class _FirstPageState extends State<FirstPage> {
   String email = '';
   String pass = '';
   String success = '';
-  int _pageState =0;
+  int _pageState =1;
   var _bgcolor= Colors.white;
 
   double WindowHeight =0;
